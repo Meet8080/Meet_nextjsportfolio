@@ -19,10 +19,10 @@ const Main = () => {
         <div className="max-w-[1240px] w-full h-full md:col-start-1 md:col-end-4 mx-auto flex justify-center items-center">
           <div>
             <p className="uppercase tracking-widest text-gray-600 text-sm">
-              let's create beautiful website
+              let&apos;s create beautiful website
             </p>
             <h1 className="py-3 text-gray-800">
-              Hi, I'm <span className="text-[#5655e5]">Meet</span>
+              Hi, I&apos;m <span className="text-[#5655e5]">Meet</span>
             </h1>
             <h2 className="py-3 text-gray-800 text-5xl">
               {/* <Typewriter

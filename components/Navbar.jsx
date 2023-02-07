@@ -112,7 +112,7 @@ const Navbar = () => {
 
             <div className="py-40">
               <p className="uppercase tracking-widest text-[#5655e5]">
-                Let's connect
+                Let&apos;s connect
               </p>
               <div className="flex justify-between w-full items-center my-5 sm:w-[60%]">
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">

@@ -22,7 +22,7 @@ const About = () => {
           </p>
           <p className="text-gray-700 text-xl md:text-lg lg:text-xl ">
             My name is Meet Patel. I am highly educated individual with a
-            Bachelor's degree in Computer Science and a Post-Graduation degree
+            Bachelor&apos;s degree in Computer Science and a Post-Graduation degree
             in Web Design and Development. With a strong background in both
             computer science and web design, I am well-equipped to tackle a wide
             range of projects and challenges in the tech industry.

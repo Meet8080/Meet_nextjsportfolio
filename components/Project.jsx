@@ -17,7 +17,7 @@ const Project = () => {
         <p className="text-3xl tracking-widest uppercase text-center text-[#5655e5]">
           Projects
         </p>
-        <h2 className="py-4 text-center">What I've built</h2>
+        <h2 className="py-4 text-center">What I&apos;ve built</h2>
         <div className="grid md:grid-cols-2 gap-16">
           <Projectdata
             title="Champion Crypto Wallet"
