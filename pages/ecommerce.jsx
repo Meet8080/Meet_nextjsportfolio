@@ -32,7 +32,7 @@ const Cryptowallet = () => {
             stripe to process the payments.
           </p>
           <a
-            href="https://github.com/Meet8080/Crypto_Wallet"
+            href="https://github.com/Meet8080/ecommerce"
             target="_blank"
             rel="noreferrer"
           >

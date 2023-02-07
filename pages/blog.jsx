@@ -29,7 +29,7 @@ const Blog = () => {
             and blogs.people can also do comment about each and every blog post.Graph cms was used as a content management system.
           </p>
           <a
-            href="https://github.com/Meet8080/Crypto_Wallet"
+            href="https://github.com/Meet8080/Blog_app"
             target="_blank"
             rel="noreferrer"
           >
