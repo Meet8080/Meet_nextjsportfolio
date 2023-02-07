@@ -12,7 +12,7 @@ const Skills = () => {
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <div>
             <Image
-              src={"/../public/assets/html.png"}
+              src={"assets/html.png"}
               alt="tailwind-logo"
               width={84}
               height={84}
@@ -24,7 +24,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/css2.png"}
+            src={"assets/css2.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -33,7 +33,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/tailwind.png"}
+            src={"assets/tailwind.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -42,7 +42,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/js.png"}
+            src={"assets/js.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -51,7 +51,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/react.png"}
+            src={"assets/react.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -60,7 +60,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/next.png"}
+            src={"assets/next.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -69,7 +69,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/sass.png"}
+            src={"assets/sass.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -78,7 +78,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/node.png"}
+            src={"assets/node.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -87,7 +87,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/mongo.png"}
+            src={"assets/mongo.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -96,7 +96,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/sanity.png"}
+            src={"assets/sanity.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
@@ -105,7 +105,7 @@ const Skills = () => {
         </div>
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <Image
-            src={"/../public/assets/express1.png"}
+            src={"assets/express1.png"}
             alt="tailwind-logo"
             width={84}
             height={84}
