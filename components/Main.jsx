@@ -14,7 +14,10 @@ const Main = () => {
   return (
     <>
       {/* <Navrbar/> */}
-      <div id="main" className="w-full h-screen text-center grid  grid-cols-1 md:grid-cols-6 justify-center items-center py-12 xl:px-24 mt-28 lg:mt-0">
+      <div
+        id="main"
+        className="w-full h-screen text-center grid  grid-cols-1 md:grid-cols-6 justify-center items-center py-12 xl:px-24 mt-28 lg:mt-0"
+      >
         {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-10"> */}
         <div className="max-w-[1240px] w-full h-full md:col-start-1 md:col-end-4 mx-auto flex justify-center items-center">
           <div>
@@ -69,7 +72,7 @@ const Main = () => {
         </div>
         <div className="md:col-start-5 md:col-end-7 px-[25%] md:px-5 lg:px-0">
           <Image
-            src="/../public/assets/Profile.jpg"
+            src="assets/Profile.jpg"
             alt="/"
             width="500"
             height="500"
