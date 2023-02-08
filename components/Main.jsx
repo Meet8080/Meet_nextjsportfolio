@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Navrbar from "./Navbar";
+import Link from "next/link";
 // import Profile from '../public/assets'
 import Typewriter from "typewriter-effect";
 import {
