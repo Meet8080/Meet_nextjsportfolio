@@ -116,7 +116,7 @@ const Navbar = () => {
               </p>
               <div className="flex justify-between w-full items-center my-5 sm:w-[60%]">
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
-                 <a href="https://www.linkedin.com/in/meet-patel-299690213/"><FaLinkedinIn color="white" size={20}/></a>
+                 <a href="https://www.linkedin.com/in/meet-patel-299690213/"><FaLinkedinIn color="white" size={20} /></a>
                 </div>
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
                  <a href="https://github.com/Meet8080"> <FaGithub color="white" size={20} /></a>
