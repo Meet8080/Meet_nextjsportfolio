@@ -57,7 +57,7 @@ const Main = () => {
             </p>
             <div className="flex justify-between items-center max-w-[300px] m-auto py-4">
               <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
-              <Link href="https://www.linkedin.com/in/meet-patel-299690213/"><FaLinkedinIn color="white" size={20}/></Link>
+              <a href="https://www.linkedin.com/in/meet-patel-299690213/"><FaLinkedinIn color="white" size={20}/></a>
               </div>
               <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
               <Link href="https://github.com/Meet8080"> <FaGithub color="white" size={20} /></Link>
