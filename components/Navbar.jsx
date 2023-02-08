@@ -116,16 +116,16 @@ const Navbar = () => {
               </p>
               <div className="flex justify-between w-full items-center my-5 sm:w-[60%]">
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
-                 <Link href="https://www.linkedin.com/in/meet-patel-299690213/"><FaLinkedinIn color="white" size={20}/></Link>
+                 <a href="https://www.linkedin.com/in/meet-patel-299690213/"><FaLinkedinIn color="white" size={20}/></a>
                 </div>
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
-                 <Link href="https://github.com/Meet8080"> <FaGithub color="white" size={20} /></Link>
+                 <a href="https://github.com/Meet8080"> <FaGithub color="white" size={20} /></a>
                 </div>
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
-                 <Link href="https://www.facebook.com/profile.php?id=100004756536184"> <FaFacebook color="white" size={20}/></Link>
+                 <a href="https://www.facebook.com/profile.php?id=100004756536184"> <FaFacebook color="white" size={20}/></a>
                 </div>
                 <div className="rounded-full shadow-md shadow-gray-600 p-3 cursor-pointer hover:scale-105 ease-in-out duration-500 bg-[#5655e5]">
-                 <Link href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTI1NTM4NjYwNzg0NzA4?igshid=NjcyZGVjMzk"> <FaInstagram color="white" size={20}/></Link>
+                 <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTI1NTM4NjYwNzg0NzA4?igshid=NjcyZGVjMzk"> <FaInstagram color="white" size={20}/></a>
                 </div>
               </div>
             </div>
