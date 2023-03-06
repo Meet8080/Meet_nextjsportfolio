@@ -14,8 +14,8 @@ const Skills = () => {
             <Image
               src={"assets/html.png"}
               alt="tailwind-logo"
-              width={84}
-              height={84}
+              width={70}
+              height={70}
             ></Image>
           </div>
           <div>
@@ -26,8 +26,8 @@ const Skills = () => {
           <Image
             src={"assets/css2.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">CSS</p>
         </div>
@@ -35,8 +35,8 @@ const Skills = () => {
           <Image
             src={"assets/tailwind.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">Tailwind</p>
         </div>
@@ -44,8 +44,8 @@ const Skills = () => {
           <Image
             src={"assets/js.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">Javascript</p>
         </div>
@@ -53,8 +53,8 @@ const Skills = () => {
           <Image
             src={"assets/react.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">React</p>
         </div>
@@ -62,8 +62,8 @@ const Skills = () => {
           <Image
             src={"assets/next.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">Next</p>
         </div>
@@ -71,8 +71,8 @@ const Skills = () => {
           <Image
             src={"assets/sass.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">SASS</p>
         </div>
@@ -80,8 +80,8 @@ const Skills = () => {
           <Image
             src={"assets/node.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">Node</p>
         </div>
@@ -89,8 +89,8 @@ const Skills = () => {
           <Image
             src={"assets/mongo.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">MongoDB</p>
         </div>
@@ -98,8 +98,8 @@ const Skills = () => {
           <Image
             src={"assets/sanity.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">Sanity</p>
         </div>
@@ -107,8 +107,8 @@ const Skills = () => {
           <Image
             src={"assets/express1.png"}
             alt="tailwind-logo"
-            width={84}
-            height={84}
+            width={70}
+            height={70}
           ></Image>
           <p className="text-gray-800 text-xl font-bold">Express</p>
         </div>
