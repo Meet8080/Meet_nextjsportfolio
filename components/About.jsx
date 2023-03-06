@@ -34,11 +34,11 @@ const About = () => {
             am an innovative problem solver who is dedicated to staying
             up-to-date with the latest technologies and trends in the industry.
           </p>
-          {/* <p className="text-gray-700 text-xl md:text-lg lg:text-xl ">
-            I am a front-end developer. I can create interactive site-design and
+          <p className="text-gray-700 text-xl md:text-lg lg:text-xl ">
+             I can create interactive site-design and
             also make it more eye-catching by web-animations.I can provide clean
-            code with perfection
-          </p> */}
+            code with perfection.
+          </p>
         </div>
       </div>
     </div>
