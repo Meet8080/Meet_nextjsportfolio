@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://meetkumarpatel.me
+
+# Sitemaps
+Sitemap: https://meetkumarpatel.me/sitemap.xml
