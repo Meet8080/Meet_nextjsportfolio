@@ -8,7 +8,7 @@ const Skills = () => {
         <h3 className="text-[#5655e5] text-3xl uppercase tracking-wider pt-16">Skills</h3>
         {/* <hr className='w-[80%] mx-auto'></hr> */}
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 py-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 py-4">
         <div className="flex justify-around items-center shadow-lg shadow-gray-500">
           <div>
             <Image
