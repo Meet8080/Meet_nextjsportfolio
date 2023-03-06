@@ -9,7 +9,6 @@ import {
   FaInstagram,
 } from "react-icons/fa";
 import {HiOutlineChevronDoubleUp} from 'react-icons/hi';
-
 const Contact = () => {
   return (
     <div id="contact" className="w-full lg:h-screen pt-6 lg:pt-8">
