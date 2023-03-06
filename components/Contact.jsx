@@ -13,7 +13,7 @@ const Contact = () => {
   return (
     <div id="contact" className="w-full lg:h-screen pt-6 lg:pt-8">
       <div className="max-w-[1280px] m-auto px-2 py-12 w-full">
-        <p className="text-3xl tracking-widest uppercase text-center text-[#5655e5]">
+        <p className="text-3xl tracking-wider font-bold uppercase text-center text-[#5655e5]">
           Contact
         </p>
         <h2 className="py-4 text-center">Get In Touch</h2>

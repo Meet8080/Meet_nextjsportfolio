@@ -13,7 +13,7 @@ const About = () => {
           ></Image>
         </div>
         <div className="col-span-2 py-2">
-          <p className="text-3xl tracking-wider uppercase text-center md:text-left text-[#5655e5]">
+          <p className="text-3xl tracking-wider uppercase font-bold text-center md:text-left text-[#5655e5]">
             About
           </p>
           <h2 className="py-2 text-center md:text-left">Who I am?</h2>

@@ -14,7 +14,7 @@ const Project = () => {
   return (
     <div id="projects" className="w-full py-4">
       <div className="2xl:px-16 px-4 py-20 mx-auto">
-        <p className="text-3xl tracking-widest uppercase text-center text-[#5655e5]">
+        <p className="text-3xl tracking-widest font-bold uppercase text-center text-[#5655e5]">
           Projects
         </p>
         <h2 className="py-4 text-center">What I&apos;ve built</h2>
